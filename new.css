@@ -1,0 +1,127 @@
+body{
+	background: white;
+}
+#left{
+	width: 300px;
+	float: left;
+	padding: 15px;
+	position: absolute;
+	margin: 10px;
+	background-color:white;
+	margin-top: 150px;
+	margin-left: 220px;
+}
+#right{
+	width: 300px;
+	padding: 15px;
+	float: right;
+	position: absolute;
+	margin-top: -247px;
+	margin-left: 840px;
+	background-color: white;
+}
+#top{
+	width: 300px;
+	padding: 15px;
+	margin: 20px 20px 20px 530px;
+	background-color: white;
+}
+#bottom{
+	width: 300px;
+	padding: 15px;
+	margin: 10px;
+	background-color: white;
+	margin-left: 530px;
+}
+#left{
+	border-top: solid 3.5px aqua;
+}
+#top{
+	border-top: solid 3.5px red;
+}
+#bottom{
+	border-top: solid 3.5px orange;
+}
+#right{
+	border-top: solid 3.5px blue;
+}
+
+#left, #top, #bottom, #right{
+	border-radius: 5px;
+	height: 150px;
+	width: 230px;
+	box-shadow: 0px 0px 15px -20px black;
+	-webkit-box-shadow: 0 10px 15px -10px black;
+	  -moz-box-shadow: 0 10px 15px -10px black;
+		box-shadow: 0 10px 15px -12px black;
+}
+
+.main h2{
+	font-size: 132%;
+	font-weight: lighter;
+	text-align: center;
+	font-family: verdana;
+	color: grey;
+	display: block;
+}
+.main h1{
+	font-size: 150%;
+	text-align: center;
+	margin: -10px;
+	font-family: Arial;
+	
+}
+.main h6{
+	font-size: 70%;
+	text-align: center;
+	margin: 27px;
+	font-family: Helvatica;
+	color: grey;
+	font-weight: lighter;
+	word-spacing: 3px;
+}
+.main{
+	position: relative;
+}
+h3{
+	font-size: 90%;
+	text-align: left;
+	margin: 3px;
+	padding: 5px;
+	font-family: verdana;
+}
+p{
+	color: grey;
+	font-size: 75%;
+	
+	padding: 5px;
+}
+.image {
+	width: 40px;
+	height: 40px;
+	float: right;
+	padding: 10px;
+	margin-top: 8px;
+	position: relative;
+}
+.foot { 
+	font-size: 15px; 
+	text-align: center; }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
